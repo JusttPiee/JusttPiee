@@ -1,9 +1,9 @@
-## 👋 Hi there!
+## 👋 Hi there
 
 Im Bach, a Computer Science (Data Science) student at Swinburne University.
 I occasionally turn ideas into (mostly working) code.
 
-### 🔭 Currently working on
+### 🔭 Currently working:
 - Business agentic system
 - Optimising my Discord bot
 - Portfolio website
